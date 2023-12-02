@@ -19,7 +19,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.ambit.inc
   # baseUrl: /
-  logoUrl: https://raw.githubusercontent.com/AmericanBinary/status.ambit.inc/master/static/img/logo.png
+  logoUrl: https://raw.githubusercontent.com/AmericanBinary/status.ambit.inc/1ca74e9768da61474ed0b33b739757743f576bda/assets/img/logo.png
   name: American Binary
   introTitle: American Binary Uptime Dashboard"
   introMessage: This is the public uptime dashboard. If you are experiencing degraded service or outtage please contact us at support@ambit.inc.
