@@ -17,8 +17,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  cname: status.ambit.inc
+  # baseUrl: /
   logoUrl: https://raw.githubusercontent.com/AmericanBinary/status.ambit.inc/master/static/img/logo.png
   name: American Binary
   introTitle: American Binary Uptime Dashboard"
