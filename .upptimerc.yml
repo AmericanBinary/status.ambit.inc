@@ -21,8 +21,8 @@ status-website:
   # baseUrl: /
   logoUrl: https://raw.githubusercontent.com/AmericanBinary/status.ambit.inc/1ca74e9768da61474ed0b33b739757743f576bda/assets/img/logo.png
   name: American Binary
-  introTitle: American Binary Uptime Dashboard"
-  introMessage: This is the public uptime dashboard. If you are experiencing degraded service or outtage please contact us at support@ambit.inc.
+  introTitle: American Binary Uptime Dashboard
+  introMessage: This is the public uptime dashboard. If you are experiencing degraded service or outtage, please contact us at [support@ambit.inc](mailto:support@ambit.inc?subject=outtage) or call us at [+1 (408) 827-8822](tel:+14088278822).
   navbar:
     - title: Status
       href: /
