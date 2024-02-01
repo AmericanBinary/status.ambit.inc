@@ -18,6 +18,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "Ambit Authentication",
+    "url": "https://auth.ambit.inc",
+    "icon": "https://icons.duckduckgo.com/ip3/auth.ambit.inc.ico",
+    "slug": "ambit-authentication",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Ambit Client Cloud",
     "url": "https://ip.fortress.ambit.inc",
     "icon": "https://icons.duckduckgo.com/ip3/ip.fortress.ambit.inc.ico",
