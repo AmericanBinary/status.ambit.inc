@@ -22,19 +22,19 @@
     "url": "https://auth.ambit.inc",
     "icon": "https://icons.duckduckgo.com/ip3/auth.ambit.inc.ico",
     "slug": "ambit-authentication",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 883,
-    "timeDay": 959,
-    "timeWeek": 922,
-    "timeMonth": 883,
-    "timeYear": 883,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 897,
+    "timeDay": 1016,
+    "timeWeek": 941,
+    "timeMonth": 897,
+    "timeYear": 897,
     "dailyMinutesDown": {
-      "2024-02-12": 0
+      "2024-02-12": 11
     }
   },
   {
