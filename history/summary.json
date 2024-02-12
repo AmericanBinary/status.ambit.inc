@@ -22,18 +22,20 @@
     "url": "https://auth.ambit.inc",
     "icon": "https://icons.duckduckgo.com/ip3/auth.ambit.inc.ico",
     "slug": "ambit-authentication",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 859,
-    "timeDay": 648,
-    "timeWeek": 883,
-    "timeMonth": 859,
-    "timeYear": 859,
-    "dailyMinutesDown": {}
+    "time": 883,
+    "timeDay": 959,
+    "timeWeek": 922,
+    "timeMonth": 883,
+    "timeYear": 883,
+    "dailyMinutesDown": {
+      "2024-02-12": 0
+    }
   },
   {
     "name": "Ambit Client Cloud",
