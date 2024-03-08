@@ -1,7 +1,7 @@
 url: https://auth.ambit.inc
-status: up
-code: 200
-responseTime: 1073
-lastUpdated: 2024-03-07T23:01:52.082Z
+status: down
+code: 404
+responseTime: 1046
+lastUpdated: 2024-03-08T15:13:47.623Z
 startTime: 2024-02-01T17:53:45.689Z
 generator: Upptime <https://github.com/upptime/upptime>
