@@ -4,9 +4,9 @@
     "url": "https://www.ambit.inc",
     "icon": "https://icons.duckduckgo.com/ip3/www.ambit.inc.ico",
     "slug": "american-binary-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 177,
     "timeMonth": 186,
     "timeYear": 206,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "Ambit Authentication",
@@ -98,9 +100,9 @@
     "url": "https://ambit.inc",
     "icon": "https://icons.duckduckgo.com/ip3/ambit.inc.ico",
     "slug": "ambit-customer-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,6 +111,8 @@
     "timeWeek": 166,
     "timeMonth": 129,
     "timeYear": 122,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   }
 ]
