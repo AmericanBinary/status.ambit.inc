@@ -22,19 +22,19 @@
     "url": "https://auth.ambit.inc",
     "icon": "https://icons.duckduckgo.com/ip3/auth.ambit.inc.ico",
     "slug": "ambit-authentication",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.91%",
-    "time": 985,
-    "timeDay": 1084,
-    "timeWeek": 1001,
-    "timeMonth": 1020,
-    "timeYear": 985,
+    "time": 986,
+    "timeDay": 1119,
+    "timeWeek": 1018,
+    "timeMonth": 1024,
+    "timeYear": 986,
     "dailyMinutesDown": {
-      "2024-07-28": 0,
+      "2024-07-28": 9,
       "2024-07-12": 27,
       "2024-03-29": 32,
       "2024-03-25": 18,
@@ -51,9 +51,9 @@
     "slug": "ambit-client-cloud",
     "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "37.58%",
-    "uptimeWeek": "91.08%",
-    "uptimeMonth": "97.95%",
+    "uptimeDay": "36.95%",
+    "uptimeWeek": "90.99%",
+    "uptimeMonth": "97.93%",
     "uptimeYear": "99.74%",
     "time": 250,
     "timeDay": 603,
@@ -61,7 +61,7 @@
     "timeMonth": 288,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2024-07-28": 899
+      "2024-07-28": 908
     }
   },
   {
@@ -71,9 +71,9 @@
     "slug": "ambit-core-cloud",
     "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "37.59%",
-    "uptimeWeek": "91.08%",
-    "uptimeMonth": "97.95%",
+    "uptimeDay": "36.95%",
+    "uptimeWeek": "90.99%",
+    "uptimeMonth": "97.93%",
     "uptimeYear": "99.74%",
     "time": 49,
     "timeDay": 76,
@@ -81,7 +81,7 @@
     "timeMonth": 55,
     "timeYear": 49,
     "dailyMinutesDown": {
-      "2024-07-28": 899
+      "2024-07-28": 908
     }
   },
   {
@@ -91,9 +91,9 @@
     "slug": "ambit-drive-cloud",
     "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "37.59%",
-    "uptimeWeek": "91.08%",
-    "uptimeMonth": "97.95%",
+    "uptimeDay": "36.95%",
+    "uptimeWeek": "90.99%",
+    "uptimeMonth": "97.93%",
     "uptimeYear": "99.74%",
     "time": 48,
     "timeDay": 79,
@@ -101,7 +101,7 @@
     "timeMonth": 55,
     "timeYear": 48,
     "dailyMinutesDown": {
-      "2024-07-28": 899
+      "2024-07-28": 908
     }
   },
   {
