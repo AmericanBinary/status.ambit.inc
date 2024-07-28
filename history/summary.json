@@ -48,9 +48,9 @@
     "url": "https://ip.fortress.ambit.inc",
     "icon": "https://icons.duckduckgo.com/ip3/ip.fortress.ambit.inc.ico",
     "slug": "ambit-client-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -59,16 +59,18 @@
     "timeWeek": 288,
     "timeMonth": 288,
     "timeYear": 250,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-28": 0
+    }
   },
   {
     "name": "Ambit Core Cloud",
     "url": "https://ip.fortress.ambit.inc",
     "icon": "https://icons.duckduckgo.com/ip3/ip.fortress.ambit.inc.ico",
     "slug": "ambit-core-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -77,16 +79,18 @@
     "timeWeek": 49,
     "timeMonth": 55,
     "timeYear": 49,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-28": 0
+    }
   },
   {
     "name": "Ambit Drive Cloud",
     "url": "https://ip.fortress.ambit.inc",
     "icon": "https://icons.duckduckgo.com/ip3/ip.fortress.ambit.inc.ico",
     "slug": "ambit-drive-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -95,7 +99,9 @@
     "timeWeek": 50,
     "timeMonth": 55,
     "timeYear": 48,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-28": 0
+    }
   },
   {
     "name": "Ambit Customer Portal",
