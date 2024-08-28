@@ -10,7 +10,7 @@ sites:
   - name: Ambit Client Admin Panel
     url: https://admin.infra.cloud.ambit.inc
   - name: Ambit Client GeoIP
-    url: https://ip.infra.cloud.ambit.inc
+    url: https://geoip.infra.cloud.ambit.inc
   - name: Ambit Customer Portal
     url: https://ambit.inc
 
