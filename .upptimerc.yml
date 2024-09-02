@@ -7,12 +7,14 @@ sites:
     url: https://www.ambit.inc
   - name: Ambit Authentication 
     url: https://auth.infra.cloud.ambit.inc
-  - name: Ambit Client Admin Panel
-    url: https://admin.infra.cloud.ambit.inc
+  - name: Ambit Client Controller (SaaS acbs) 
+    url: https://acbs.infra.cloud.ambit.inc
+  - name: Ambit Client Controller (SaaS onboarding svc) 
+    url: https://onboarding.infra.cloud.ambit.inc
   - name: Ambit Client GeoIP
     url: https://geoip.infra.cloud.ambit.inc
   - name: Ambit Customer Portal
-    url: https://ambit.inc
+    url: https://americanbinary.zendesk.com/hc/en-us
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
