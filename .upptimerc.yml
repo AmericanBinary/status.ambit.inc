@@ -5,15 +5,14 @@ repo: status.ambit.inc # The name of this repository
 sites:
   - name: American Binary Website
     url: https://www.ambit.inc
-  - name: Ambit Authentication 
-    url: https://auth.infra.cloud.ambit.inc
+  - name: Ambit Authentication (Saas)
+    url: https://auth.infra.cloud.ambit.inc/api/health
   - name: Ambit Client Controller (SaaS acbs) 
     url: https://acbs.infra.cloud.ambit.inc
   - name: Ambit Client Controller (SaaS onboarding svc) 
     url: https://onboarding.infra.cloud.ambit.inc/v1/health
   - name: Ambit Client GeoIP
     url: https://geoip.infra.cloud.ambit.inc
-
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
