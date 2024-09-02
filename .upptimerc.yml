@@ -13,8 +13,7 @@ sites:
     url: https://onboarding.infra.cloud.ambit.inc/v1/health
   - name: Ambit Client GeoIP
     url: https://geoip.infra.cloud.ambit.inc
-  - name: Ambit Customer Portal
-    url: https://americanbinary.zendesk.com/hc/en-us
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
