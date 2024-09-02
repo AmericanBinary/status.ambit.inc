@@ -10,7 +10,7 @@ sites:
   - name: Ambit Client Controller (SaaS acbs) 
     url: https://acbs.infra.cloud.ambit.inc
   - name: Ambit Client Controller (SaaS onboarding svc) 
-    url: https://onboarding.infra.cloud.ambit.inc
+    url: https://onboarding.infra.cloud.ambit.inc/
   - name: Ambit Client GeoIP
     url: https://geoip.infra.cloud.ambit.inc
   - name: Ambit Customer Portal
