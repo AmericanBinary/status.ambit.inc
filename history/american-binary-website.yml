@@ -1,7 +1,7 @@
 url: https://www.ambit.inc
-status: up
-code: 200
-responseTime: 161
-lastUpdated: 2025-02-05T14:24:06.091Z
+status: down
+code: 429
+responseTime: 246
+lastUpdated: 2025-02-05T16:49:05.477Z
 startTime: 2023-12-02T21:26:57.486Z
 generator: Upptime <https://github.com/upptime/upptime>
