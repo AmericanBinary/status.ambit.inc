@@ -24,17 +24,16 @@
     "slug": "ambit-authentication-saas",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 268,
+    "time": 267,
     "timeDay": 111,
     "timeWeek": 187,
     "timeMonth": 247,
-    "timeYear": 268,
+    "timeYear": 267,
     "dailyMinutesDown": {
-      "2025-05-31": 12,
       "2024-11-28": 304
     }
   },
@@ -45,9 +44,9 @@
     "slug": "ambit-client-controller-saa-s-acbs",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 243,
     "timeDay": 76,
@@ -55,7 +54,6 @@
     "timeMonth": 228,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2025-05-31": 12,
       "2025-02-05": 69,
       "2024-11-28": 304,
       "2024-09-02": 1
