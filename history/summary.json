@@ -4,18 +4,20 @@
     "url": "https://www.ambit.inc",
     "icon": "https://icons.duckduckgo.com/ip3/www.ambit.inc.ico",
     "slug": "american-binary-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 268,
-    "timeDay": 339,
-    "timeWeek": 426,
-    "timeMonth": 372,
-    "timeYear": 293,
-    "dailyMinutesDown": {}
+    "time": 271,
+    "timeDay": 845,
+    "timeWeek": 542,
+    "timeMonth": 403,
+    "timeYear": 296,
+    "dailyMinutesDown": {
+      "2025-08-20": 0
+    }
   },
   {
     "name": "Ambit Authentication (Saas)",
@@ -92,7 +94,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.60%",
+    "uptimeYear": "97.79%",
     "time": 298,
     "timeDay": 237,
     "timeWeek": 262,
