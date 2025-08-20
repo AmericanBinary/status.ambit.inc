@@ -4,19 +4,19 @@
     "url": "https://www.ambit.inc",
     "icon": "https://icons.duckduckgo.com/ip3/www.ambit.inc.ico",
     "slug": "american-binary-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 271,
-    "timeDay": 845,
-    "timeWeek": 542,
-    "timeMonth": 403,
+    "timeDay": 678,
+    "timeWeek": 520,
+    "timeMonth": 401,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2025-08-20": 0
+      "2025-08-20": 15
     }
   },
   {
