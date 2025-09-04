@@ -4,7 +4,7 @@
     "url": "https://www.ambit.inc",
     "icon": "https://icons.duckduckgo.com/ip3/www.ambit.inc.ico",
     "slug": "american-binary-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 468,
     "timeYear": 306,
     "dailyMinutesDown": {
+      "2025-09-04": 0,
       "2025-08-21": 23
     }
   },
@@ -88,7 +89,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/geoip.infra.cloud.ambit.inc.ico",
     "slug": "ambit-client-geo-ip",
     "status": "up",
-    "uptime": "97.20%",
+    "uptime": "97.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
