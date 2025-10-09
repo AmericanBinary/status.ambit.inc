@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 294,
-    "timeDay": 696,
-    "timeWeek": 522,
-    "timeMonth": 376,
-    "timeYear": 319,
+    "time": 295,
+    "timeDay": 220,
+    "timeWeek": 346,
+    "timeMonth": 375,
+    "timeYear": 320,
     "dailyMinutesDown": {
       "2025-08-21": 23
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 263,
-    "timeDay": 507,
-    "timeWeek": 274,
-    "timeMonth": 255,
-    "timeYear": 265,
+    "timeDay": 347,
+    "timeWeek": 291,
+    "timeMonth": 261,
+    "timeYear": 266,
     "dailyMinutesDown": {
       "2025-08-02": 15,
       "2024-11-28": 304
@@ -52,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 256,
-    "timeDay": 399,
-    "timeWeek": 324,
-    "timeMonth": 288,
-    "timeYear": 253,
+    "timeDay": 234,
+    "timeWeek": 313,
+    "timeMonth": 290,
+    "timeYear": 254,
     "dailyMinutesDown": {
       "2025-08-02": 15,
       "2025-02-05": 69,
@@ -74,9 +74,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 237,
-    "timeDay": 150,
-    "timeWeek": 269,
-    "timeMonth": 244,
+    "timeDay": 223,
+    "timeWeek": 278,
+    "timeMonth": 248,
     "timeYear": 239,
     "dailyMinutesDown": {
       "2024-11-28": 304
@@ -88,16 +88,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/geoip.infra.cloud.ambit.inc.ico",
     "slug": "ambit-client-geo-ip",
     "status": "up",
-    "uptime": "97.42%",
+    "uptime": "97.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 302,
-    "timeDay": 231,
-    "timeWeek": 336,
-    "timeMonth": 287,
-    "timeYear": 304,
+    "timeDay": 411,
+    "timeWeek": 371,
+    "timeMonth": 297,
+    "timeYear": 305,
     "dailyMinutesDown": {
       "2024-11-28": 304
     }
