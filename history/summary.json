@@ -6,7 +6,7 @@
     "slug": "american-binary-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 381,
     "timeYear": 341,
     "dailyMinutesDown": {
+      "2025-12-05": 0,
       "2025-08-21": 23
     }
   },
