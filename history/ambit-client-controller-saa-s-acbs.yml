@@ -1,7 +1,7 @@
 url: https://acbs.infra.cloud.ambit.inc
-status: up
-code: 200
-responseTime: 241
-lastUpdated: 2025-12-06T23:01:52.624Z
+status: down
+code: 500
+responseTime: 259
+lastUpdated: 2025-12-06T23:12:57.081Z
 startTime: 2024-09-02T17:06:04.080Z
 generator: Upptime <https://github.com/upptime/upptime>
